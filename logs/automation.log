@@ -1,0 +1,46 @@
+2026-08-22 13:02:44 INFO  BaseClass - lanuching the application
+2026-08-22 13:04:48 INFO  BaseClass - lanuching the application
+2026-08-22 13:06:33 INFO  BaseClass - lanuching the application
+2026-08-22 13:07:38 INFO  BaseClass - lanuching the application
+2026-08-22 13:10:05 INFO  BaseClass - lanuching the application
+2026-08-22 13:10:30 INFO  BaseClass - lanuching the application
+2026-08-22 14:14:47 INFO  BaseClass - lanuching the application
+2026-08-22 14:14:48 INFO  BaseClass - opened Pim page
+2026-08-22 14:14:54 INFO  BaseClass - entered firstname
+2026-08-22 14:14:54 INFO  BaseClass - entered lastname
+2026-08-22 14:14:54 INFO  BaseClass - employee details saved
+2026-08-22 14:14:54 INFO  BaseClass - Providing personal details
+2026-08-22 14:14:54 INFO  BaseClass - Enter Others Id
+2026-08-22 14:14:56 INFO  BaseClass - finished the testcase TC_001Login application ..........
+2026-08-22 15:33:28 INFO  BaseClass - lanuching the application
+2026-08-22 15:33:30 INFO  BaseClass - opened Pim page
+2026-08-22 15:33:35 INFO  BaseClass - entered firstname
+2026-08-22 15:33:35 INFO  BaseClass - entered lastname
+2026-08-22 15:33:35 INFO  BaseClass - employee details saved
+2026-08-22 15:33:35 INFO  BaseClass - Providing personal details
+2026-08-22 15:33:35 INFO  BaseClass - Enter Others Id
+2026-08-22 15:33:37 INFO  BaseClass - finished the testcase TC_001Login application ..........
+2026-08-22 15:37:46 INFO  BaseClass - lanuching the application
+2026-08-22 15:37:47 INFO  BaseClass - opened Pim page
+2026-08-22 15:37:54 INFO  BaseClass - entered firstname
+2026-08-22 15:37:54 INFO  BaseClass - entered lastname
+2026-08-22 15:37:54 INFO  BaseClass - employee details saved
+2026-08-22 15:37:54 INFO  BaseClass - Providing personal details
+2026-08-22 15:37:54 INFO  BaseClass - Enter Others Id
+2026-08-22 15:37:56 INFO  BaseClass - finished the testcase TC_001Login application ..........
+2026-08-22 15:39:39 INFO  BaseClass - lanuching the application
+2026-08-22 15:39:41 INFO  BaseClass - opened Pim page
+2026-08-22 15:39:46 INFO  BaseClass - entered firstname
+2026-08-22 15:39:46 INFO  BaseClass - entered lastname
+2026-08-22 15:39:46 INFO  BaseClass - employee details saved
+2026-08-22 15:39:46 INFO  BaseClass - Providing personal details
+2026-08-22 15:39:46 INFO  BaseClass - Enter Others Id
+2026-08-22 15:39:49 INFO  BaseClass - finished the testcase TC_001Login application ..........
+2026-08-22 15:40:29 INFO  BaseClass - lanuching the application
+2026-08-22 15:40:30 INFO  BaseClass - opened Pim page
+2026-08-22 15:40:36 INFO  BaseClass - entered firstname
+2026-08-22 15:40:36 INFO  BaseClass - entered lastname
+2026-08-22 15:40:36 INFO  BaseClass - employee details saved
+2026-08-22 15:40:36 INFO  BaseClass - Providing personal details
+2026-08-22 15:40:36 INFO  BaseClass - Enter Others Id
+2026-08-22 15:40:38 INFO  BaseClass - finished the testcase TC_001Login application ..........
