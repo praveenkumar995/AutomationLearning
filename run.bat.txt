@@ -1,0 +1,2 @@
+C:\Users\R Praveen Kumar\IdeaProjects\AutomationLearing
+mvn test

@@ -38,7 +38,7 @@ public class PIMPage extends ApplicationLoginPage {
     public void PIMmethod() {
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
         // driver.findElement(P)
-        WebElement pim = driver.findElement(P);
+        WebElement pim =wait.until(ExpectedConditions.elementToBeClickable(driver.findElement(P)));
         // store the webelement variable and then move to that element
         Actions actions = new Actions(driver);
         actions.moveToElement(pim).click().perform();

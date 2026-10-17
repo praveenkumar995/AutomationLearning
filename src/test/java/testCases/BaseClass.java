@@ -26,7 +26,9 @@ public class BaseClass
 
     @BeforeClass
     @Parameters({"os","browser"})
-    public void launchingBrowser(String os, String br) throws IOException {
+    public void launchingBrowser(
+            @Optional("windows") String os,
+            @Optional("chrome") String br) throws IOException {
 
         //loading the properties file
         FileReader file = new FileReader("src/test/resources/config.properties");

@@ -492,3 +492,107 @@
 2026-09-03 14:10:00 INFO  BaseClass - click on logout button
 2026-09-03 14:10:01 INFO  BaseClass - logout application successfully.....
 2026-09-03 14:10:01 INFO  BaseClass - Closed the browser successfully
+2026-09-25 06:26:18 INFO  BaseClass - Initializing the chrome Browser......
+2026-09-25 06:26:19 INFO  BaseClass - launching ORangeHRM application
+2026-09-25 06:26:22 INFO  BaseClass - Fetching the credentials from the properties file
+2026-09-25 06:26:22 INFO  BaseClass - click on submit button
+2026-09-25 06:26:23 INFO  BaseClass - **** Starting TC_003_LoginDDT *****
+2026-09-25 06:26:24 INFO  BaseClass - launching ORangeHRM application
+2026-09-25 06:26:25 INFO  BaseClass - Fetching the credentials from the properties file
+2026-09-25 06:26:25 INFO  BaseClass - click on submit button
+2026-09-25 06:26:25 INFO  BaseClass - **** Starting TC_003_LoginDDT *****
+2026-09-25 06:26:26 INFO  BaseClass - launching ORangeHRM application
+2026-09-25 06:26:27 INFO  BaseClass - Fetching the credentials from the properties file
+2026-09-25 06:26:27 INFO  BaseClass - click on submit button
+2026-09-25 06:26:28 INFO  BaseClass - **** Starting TC_003_LoginDDT *****
+2026-09-25 06:26:29 INFO  BaseClass - click on logout button
+2026-10-06 19:39:38 INFO  BaseClass - Initializing the chrome Browser......
+2026-10-06 19:39:40 INFO  BaseClass - launching ORangeHRM application
+2026-10-06 19:39:51 INFO  BaseClass - Fetching the credentials from the properties file
+2026-10-06 19:39:53 INFO  BaseClass - click on submit button
+2026-10-06 19:39:53 INFO  BaseClass - **** Starting TC_003_LoginDDT *****
+2026-10-06 19:39:55 INFO  BaseClass - launching ORangeHRM application
+2026-10-06 19:39:57 INFO  BaseClass - Fetching the credentials from the properties file
+2026-10-06 19:39:58 INFO  BaseClass - click on submit button
+2026-10-06 19:39:59 INFO  BaseClass - **** Starting TC_003_LoginDDT *****
+2026-10-06 19:40:01 INFO  BaseClass - launching ORangeHRM application
+2026-10-06 19:40:03 INFO  BaseClass - Fetching the credentials from the properties file
+2026-10-06 19:40:03 INFO  BaseClass - click on submit button
+2026-10-06 19:40:03 INFO  BaseClass - **** Starting TC_003_LoginDDT *****
+2026-10-06 19:40:05 INFO  BaseClass - click on logout button
+2026-10-14 19:21:29 INFO  BaseClass - Initializing the chrome Browser......
+2026-10-14 19:21:29 INFO  BaseClass - launching ORangeHRM application
+2026-10-14 19:21:34 INFO  BaseClass - Fetching the credentials from the properties file
+2026-10-14 19:21:35 INFO  BaseClass - click on submit button
+2026-10-14 19:21:35 INFO  BaseClass - opened Pim page
+2026-10-14 19:21:46 ERROR BaseClass - Test Failed
+2026-10-14 19:21:46 INFO  BaseClass - finished the testcase TC_001Login application ..........
+2026-10-14 19:21:46 INFO  BaseClass - click on logout button
+2026-10-14 19:36:19 INFO  BaseClass - Initializing the chrome Browser......
+2026-10-14 19:36:19 INFO  BaseClass - launching ORangeHRM application
+2026-10-14 19:36:23 INFO  BaseClass - Fetching the credentials from the properties file
+2026-10-14 19:36:24 INFO  BaseClass - click on submit button
+2026-10-14 19:36:24 INFO  BaseClass - opened Pim page
+2026-10-14 19:36:35 ERROR BaseClass - Test Failed
+2026-10-14 19:36:35 INFO  BaseClass - finished the testcase TC_001Login application ..........
+2026-10-14 19:36:35 INFO  BaseClass - click on logout button
+2026-10-15 19:34:54 INFO  BaseClass - Initializing the chrome Browser......
+2026-10-15 19:34:54 INFO  BaseClass - launching ORangeHRM application
+2026-10-15 19:34:56 INFO  BaseClass - Fetching the credentials from the properties file
+2026-10-15 19:34:57 INFO  BaseClass - click on submit button
+2026-10-15 19:34:57 INFO  BaseClass - started running TC002....
+2026-10-15 19:34:57 INFO  BaseClass - OrangeHRM image validation on the homepage....
+2026-10-15 19:35:08 INFO  BaseClass - click on logout button
+2026-10-15 19:36:15 INFO  BaseClass - Initializing the chrome Browser......
+2026-10-15 19:36:15 INFO  BaseClass - launching ORangeHRM application
+2026-10-15 19:36:19 INFO  BaseClass - Fetching the credentials from the properties file
+2026-10-15 19:36:20 INFO  BaseClass - click on submit button
+2026-10-15 19:36:20 INFO  BaseClass - opened Pim page
+2026-10-15 19:36:31 ERROR BaseClass - Test Failed
+2026-10-15 19:36:31 INFO  BaseClass - finished the testcase TC_001Login application ..........
+2026-10-15 19:36:31 INFO  BaseClass - click on logout button
+2026-10-15 19:37:44 INFO  BaseClass - Initializing the chrome Browser......
+2026-10-15 19:37:44 INFO  BaseClass - launching ORangeHRM application
+2026-10-15 19:37:46 INFO  BaseClass - Fetching the credentials from the properties file
+2026-10-15 19:37:47 INFO  BaseClass - click on submit button
+2026-10-15 19:37:47 INFO  BaseClass - opened Pim page
+2026-10-15 19:37:53 INFO  BaseClass - entered firstname
+2026-10-15 19:37:53 INFO  BaseClass - entered lastname
+2026-10-15 19:37:53 INFO  BaseClass - employee details saved
+2026-10-15 19:37:53 INFO  BaseClass - Providing personal details
+2026-10-15 19:37:53 INFO  BaseClass - Enter Others Id
+2026-10-15 19:37:58 INFO  BaseClass - entered licenece number
+2026-10-15 19:37:58 INFO  BaseClass - finished the testcase TC_001Login application ..........
+2026-10-15 19:37:58 INFO  BaseClass - click on logout button
+2026-10-15 19:37:59 INFO  BaseClass - logout application successfully.....
+2026-10-15 19:37:59 INFO  BaseClass - Closed the browser successfully
+2026-10-15 19:45:48 INFO  BaseClass - Initializing the chrome Browser......
+2026-10-15 19:45:49 INFO  BaseClass - launching ORangeHRM application
+2026-10-15 19:45:53 INFO  BaseClass - Fetching the credentials from the properties file
+2026-10-15 19:45:53 INFO  BaseClass - click on submit button
+2026-10-15 19:45:53 INFO  BaseClass - opened Pim page
+2026-10-15 19:45:59 INFO  BaseClass - entered firstname
+2026-10-15 19:45:59 INFO  BaseClass - entered lastname
+2026-10-15 19:46:00 INFO  BaseClass - employee details saved
+2026-10-15 19:46:00 INFO  BaseClass - Providing personal details
+2026-10-15 19:46:00 INFO  BaseClass - Enter Others Id
+2026-10-15 19:46:05 INFO  BaseClass - entered licenece number
+2026-10-15 19:46:05 INFO  BaseClass - finished the testcase TC_001Login application ..........
+2026-10-15 19:46:05 INFO  BaseClass - click on logout button
+2026-10-15 19:46:07 INFO  BaseClass - logout application successfully.....
+2026-10-15 19:46:07 INFO  BaseClass - Closed the browser successfully
+2026-10-17 06:51:00 INFO  BaseClass - Initializing the chrome Browser......
+2026-10-17 06:51:00 INFO  BaseClass - launching ORangeHRM application
+2026-10-17 06:51:04 INFO  BaseClass - Fetching the credentials from the properties file
+2026-10-17 06:51:05 INFO  BaseClass - click on submit button
+2026-10-17 06:51:06 INFO  BaseClass - opened Pim page
+2026-10-17 06:51:11 INFO  BaseClass - entered firstname
+2026-10-17 06:51:11 INFO  BaseClass - entered lastname
+2026-10-17 06:51:11 INFO  BaseClass - employee details saved
+2026-10-17 06:51:11 INFO  BaseClass - Providing personal details
+2026-10-17 06:51:11 INFO  BaseClass - Enter Others Id
+2026-10-17 06:51:16 INFO  BaseClass - entered licenece number
+2026-10-17 06:51:16 INFO  BaseClass - finished the testcase TC_001Login application ..........
+2026-10-17 06:51:16 INFO  BaseClass - click on logout button
+2026-10-17 06:51:17 INFO  BaseClass - logout application successfully.....
+2026-10-17 06:51:17 INFO  BaseClass - Closed the browser successfully
