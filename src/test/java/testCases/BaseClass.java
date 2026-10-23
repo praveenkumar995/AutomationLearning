@@ -84,7 +84,7 @@ public class BaseClass
         lp.setClickbutton();
         lp.setLogout();
         logger.info("logout application successfully.....");
-        //driver.quit();
+        driver.quit();
         logger.info("Closed the browser successfully");
     }
 
