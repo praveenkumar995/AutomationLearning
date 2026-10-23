@@ -20,7 +20,7 @@ import java.util.Properties;
 public class BaseClass
 {
     public WebDriver driver;
-    protected static final Logger logger =LogManager.getLogger(BaseClass.class);
+    protected static  Logger logger;
     public Properties p;
     ApplicationLoginPage lp;
 
@@ -29,6 +29,7 @@ public class BaseClass
     public void launchingBrowser(
             @Optional("windows") String os,
             @Optional("chrome") String br) throws IOException {
+        logger=LogManager.getLogger(this.getClass());
 
         //loading the properties file
         FileReader file = new FileReader("src/test/resources/config.properties");
