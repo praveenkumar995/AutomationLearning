@@ -1,0 +1,21 @@
+2026-10-23 07:41:35 INFO  TC00_3 - Initializing the chrome Browser......
+2026-10-23 07:41:35 INFO  TC00_3 - launching ORangeHRM application
+2026-10-23 07:41:37 INFO  TC00_3 - Fetching the credentials from the properties file
+2026-10-23 07:41:37 INFO  TC00_3 - click on submit button
+2026-10-23 07:41:38 INFO  TC00_3 - click on logout button
+2026-10-23 07:41:40 INFO  TC00_3 - logout application successfully.....
+2026-10-23 07:41:40 INFO  TC00_3 - Closed the browser successfully
+2026-10-23 07:43:26 INFO  TC00_3 - Initializing the chrome Browser......
+2026-10-23 07:43:26 INFO  TC00_3 - launching ORangeHRM application
+2026-10-23 07:43:29 INFO  TC00_3 - Fetching the credentials from the properties file
+2026-10-23 07:43:29 INFO  TC00_3 - click on submit button
+2026-10-23 07:43:30 INFO  TC00_3 - click on logout button
+2026-10-23 07:43:31 INFO  TC00_3 - logout application successfully.....
+2026-10-23 07:43:32 INFO  TC00_3 - Closed the browser successfully
+2026-10-23 07:47:26 INFO  TC00_3 - Initializing the chrome Browser......
+2026-10-23 07:47:26 INFO  TC00_3 - launching ORangeHRM application
+2026-10-23 07:47:29 INFO  TC00_3 - Fetching the credentials from the properties file
+2026-10-23 07:47:29 INFO  TC00_3 - click on submit button
+2026-10-23 07:47:29 INFO  TC00_3 - click on logout button
+2026-10-23 07:47:32 INFO  TC00_3 - logout application successfully.....
+2026-10-23 07:47:32 INFO  TC00_3 - Closed the browser successfully
