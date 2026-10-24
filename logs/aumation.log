@@ -19,3 +19,504 @@
 2026-10-23 07:47:29 INFO  TC00_3 - click on logout button
 2026-10-23 07:47:32 INFO  TC00_3 - logout application successfully.....
 2026-10-23 07:47:32 INFO  TC00_3 - Closed the browser successfully
+2026-10-23 08:01:55 INFO  TC001_LoginApplication - Initializing the chrome Browser......
+2026-10-23 08:01:55 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-23 08:01:58 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-23 08:01:58 INFO  TC001_LoginApplication - click on submit button
+2026-10-23 08:01:58 INFO  TC001_LoginApplication - opened Pim page
+2026-10-23 08:02:04 INFO  TC001_LoginApplication - entered firstname
+2026-10-23 08:02:04 INFO  TC001_LoginApplication - entered lastname
+2026-10-23 08:02:04 INFO  TC001_LoginApplication - employee details saved
+2026-10-23 08:02:04 INFO  TC001_LoginApplication - Providing personal details
+2026-10-23 08:02:04 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-23 08:02:09 INFO  TC001_LoginApplication - entered licenece number
+2026-10-23 08:02:09 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-23 08:02:09 INFO  TC001_LoginApplication - click on logout button
+2026-10-23 08:02:10 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-23 08:02:11 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-23 08:02:13 INFO  TC001_LoginApplication - Initializing the Edge Browser......
+2026-10-23 08:02:13 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-23 08:02:16 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-23 08:02:16 INFO  TC001_LoginApplication - click on submit button
+2026-10-23 08:02:16 INFO  TC001_LoginApplication - opened Pim page
+2026-10-23 08:02:22 INFO  TC001_LoginApplication - entered firstname
+2026-10-23 08:02:22 INFO  TC001_LoginApplication - entered lastname
+2026-10-23 08:02:22 INFO  TC001_LoginApplication - employee details saved
+2026-10-23 08:02:22 INFO  TC001_LoginApplication - Providing personal details
+2026-10-23 08:02:22 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-23 08:02:26 INFO  TC001_LoginApplication - entered licenece number
+2026-10-23 08:02:26 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-23 08:02:26 INFO  TC001_LoginApplication - click on logout button
+2026-10-23 08:02:28 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-23 08:02:28 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-23 08:04:27 INFO  TC001_LoginApplication - Initializing the Edge Browser......
+2026-10-23 08:04:27 INFO  TC001_LoginApplication - Initializing the chrome Browser......
+2026-10-23 08:04:27 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-23 08:04:27 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-23 08:04:30 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-23 08:04:31 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-23 08:04:31 INFO  TC001_LoginApplication - click on submit button
+2026-10-23 08:04:31 INFO  TC001_LoginApplication - click on submit button
+2026-10-23 08:04:32 INFO  TC001_LoginApplication - opened Pim page
+2026-10-23 08:04:32 INFO  TC001_LoginApplication - opened Pim page
+2026-10-23 08:04:37 INFO  TC001_LoginApplication - entered firstname
+2026-10-23 08:04:37 INFO  TC001_LoginApplication - entered firstname
+2026-10-23 08:04:37 INFO  TC001_LoginApplication - entered lastname
+2026-10-23 08:04:37 INFO  TC001_LoginApplication - entered lastname
+2026-10-23 08:04:37 INFO  TC001_LoginApplication - employee details saved
+2026-10-23 08:04:37 INFO  TC001_LoginApplication - Providing personal details
+2026-10-23 08:04:37 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-23 08:04:37 INFO  TC001_LoginApplication - employee details saved
+2026-10-23 08:04:37 INFO  TC001_LoginApplication - Providing personal details
+2026-10-23 08:04:37 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-23 08:04:42 INFO  TC001_LoginApplication - entered licenece number
+2026-10-23 08:04:42 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-23 08:04:42 INFO  TC001_LoginApplication - click on logout button
+2026-10-23 08:04:44 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-23 08:04:45 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-23 08:04:47 ERROR TC001_LoginApplication - Test Failed
+2026-10-23 08:04:47 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-23 08:04:47 INFO  TC001_LoginApplication - click on logout button
+2026-10-23 08:04:48 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-23 08:04:49 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-23 08:05:39 INFO  TC001_LoginApplication - Initializing the Edge Browser......
+2026-10-23 08:05:39 INFO  TC001_LoginApplication - Initializing the chrome Browser......
+2026-10-23 08:05:39 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-23 08:05:39 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-23 08:05:48 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-23 08:05:49 INFO  TC001_LoginApplication - click on submit button
+2026-10-23 08:05:50 INFO  TC001_LoginApplication - opened Pim page
+2026-10-23 08:05:54 INFO  TC001_LoginApplication - entered firstname
+2026-10-23 08:05:54 INFO  TC001_LoginApplication - entered lastname
+2026-10-23 08:05:55 INFO  TC001_LoginApplication - employee details saved
+2026-10-23 08:05:55 INFO  TC001_LoginApplication - Providing personal details
+2026-10-23 08:05:55 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-23 08:05:55 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-23 08:05:56 INFO  TC001_LoginApplication - click on submit button
+2026-10-23 08:05:57 INFO  TC001_LoginApplication - opened Pim page
+2026-10-23 08:05:59 INFO  TC001_LoginApplication - entered licenece number
+2026-10-23 08:05:59 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-23 08:05:59 INFO  TC001_LoginApplication - click on logout button
+2026-10-23 08:06:01 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-23 08:06:01 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-23 08:06:02 INFO  TC001_LoginApplication - entered firstname
+2026-10-23 08:06:02 INFO  TC001_LoginApplication - entered lastname
+2026-10-23 08:06:03 INFO  TC001_LoginApplication - employee details saved
+2026-10-23 08:06:03 INFO  TC001_LoginApplication - Providing personal details
+2026-10-23 08:06:03 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-23 08:06:07 INFO  TC001_LoginApplication - entered licenece number
+2026-10-23 08:06:07 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-23 08:06:07 INFO  TC001_LoginApplication - click on logout button
+2026-10-23 08:06:09 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-23 08:06:09 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-23 08:08:40 INFO  TC001_LoginApplication - Initializing the chrome Browser......
+2026-10-23 08:08:40 INFO  TC001_LoginApplication - Initializing the Edge Browser......
+2026-10-23 08:08:40 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-23 08:08:40 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-23 08:08:42 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-23 08:08:43 INFO  TC001_LoginApplication - click on submit button
+2026-10-23 08:08:43 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-23 08:08:45 INFO  TC001_LoginApplication - click on submit button
+2026-10-23 08:08:46 INFO  TC001_LoginApplication - opened Pim page
+2026-10-23 08:08:48 INFO  TC001_LoginApplication - opened Pim page
+2026-10-23 08:08:57 INFO  TC001_LoginApplication - entered firstname
+2026-10-23 08:08:57 INFO  TC001_LoginApplication - entered lastname
+2026-10-23 08:08:58 INFO  TC001_LoginApplication - employee details saved
+2026-10-23 08:08:58 INFO  TC001_LoginApplication - Providing personal details
+2026-10-23 08:08:58 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-23 08:08:59 INFO  TC001_LoginApplication - entered firstname
+2026-10-23 08:08:59 INFO  TC001_LoginApplication - entered lastname
+2026-10-23 08:08:59 INFO  TC001_LoginApplication - employee details saved
+2026-10-23 08:08:59 INFO  TC001_LoginApplication - Providing personal details
+2026-10-23 08:08:59 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-23 08:09:08 ERROR TC001_LoginApplication - Test Failed
+2026-10-23 08:09:08 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-23 08:09:08 INFO  TC001_LoginApplication - click on logout button
+2026-10-23 08:09:09 ERROR TC001_LoginApplication - Test Failed
+2026-10-23 08:09:09 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-23 08:09:09 INFO  TC001_LoginApplication - click on logout button
+2026-10-23 08:09:11 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-23 08:09:12 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-23 08:09:12 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-23 08:09:13 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-24 09:57:31 INFO  TC001_LoginApplication - Initializing the chrome Browser......
+2026-10-24 09:57:31 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-24 09:57:34 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-24 09:57:35 INFO  TC001_LoginApplication - click on submit button
+2026-10-24 09:57:35 INFO  TC001_LoginApplication - opened Pim page
+2026-10-24 09:57:40 INFO  TC001_LoginApplication - entered firstname
+2026-10-24 09:57:40 INFO  TC001_LoginApplication - entered lastname
+2026-10-24 09:57:40 INFO  TC001_LoginApplication - employee details saved
+2026-10-24 09:57:40 INFO  TC001_LoginApplication - Providing personal details
+2026-10-24 09:57:40 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-24 09:57:45 INFO  TC001_LoginApplication - entered licenece number
+2026-10-24 09:57:45 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-24 09:57:45 INFO  TC001_LoginApplication - click on logout button
+2026-10-24 09:57:46 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-24 09:57:46 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-24 09:57:47 INFO  TC002 - Initializing the chrome Browser......
+2026-10-24 09:57:47 INFO  TC002 - launching ORangeHRM application
+2026-10-24 09:57:49 INFO  TC002 - Fetching the credentials from the properties file
+2026-10-24 09:57:50 INFO  TC002 - click on submit button
+2026-10-24 09:57:50 INFO  TC002 - started running TC002....
+2026-10-24 09:57:50 INFO  TC002 - OrangeHRM image validation on the homepage....
+2026-10-24 09:57:51 INFO  TC002 - completed the TC002 execution successfully.........
+2026-10-24 09:57:51 INFO  TC002 - click on logout button
+2026-10-24 09:57:52 INFO  TC002 - logout application successfully.....
+2026-10-24 09:57:52 INFO  TC002 - Closed the browser successfully
+2026-10-24 09:57:53 INFO  DDTTesting - Initializing the chrome Browser......
+2026-10-24 09:57:54 INFO  DDTTesting - launching ORangeHRM application
+2026-10-24 09:57:57 INFO  DDTTesting - Fetching the credentials from the properties file
+2026-10-24 09:57:57 INFO  DDTTesting - click on submit button
+2026-10-24 09:57:57 INFO  DDTTesting - **** Starting TC_003_LoginDDT *****
+2026-10-24 09:57:58 INFO  DDTTesting - launching ORangeHRM application
+2026-10-24 09:57:59 INFO  DDTTesting - Fetching the credentials from the properties file
+2026-10-24 09:57:59 INFO  DDTTesting - click on submit button
+2026-10-24 09:57:59 INFO  DDTTesting - **** Starting TC_003_LoginDDT *****
+2026-10-24 09:58:00 INFO  DDTTesting - launching ORangeHRM application
+2026-10-24 09:58:00 INFO  DDTTesting - Fetching the credentials from the properties file
+2026-10-24 09:58:01 INFO  DDTTesting - click on submit button
+2026-10-24 09:58:01 INFO  DDTTesting - **** Starting TC_003_LoginDDT *****
+2026-10-24 09:58:01 INFO  DDTTesting - click on logout button
+2026-10-24 09:58:03 INFO  DDTTesting - logout application successfully.....
+2026-10-24 09:58:04 INFO  DDTTesting - Closed the browser successfully
+2026-10-24 10:04:09 INFO  TC001_LoginApplication - Initializing the chrome Browser......
+2026-10-24 10:04:09 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-24 10:04:12 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-24 10:04:12 INFO  TC001_LoginApplication - click on submit button
+2026-10-24 10:04:12 INFO  TC001_LoginApplication - opened Pim page
+2026-10-24 10:04:17 INFO  TC001_LoginApplication - entered firstname
+2026-10-24 10:04:18 INFO  TC001_LoginApplication - entered lastname
+2026-10-24 10:04:18 INFO  TC001_LoginApplication - employee details saved
+2026-10-24 10:04:18 INFO  TC001_LoginApplication - Providing personal details
+2026-10-24 10:04:18 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-24 10:04:22 INFO  TC001_LoginApplication - entered licenece number
+2026-10-24 10:04:22 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-24 10:04:22 INFO  TC001_LoginApplication - click on logout button
+2026-10-24 10:04:24 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-24 10:04:24 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-24 10:04:25 INFO  TC002 - Initializing the chrome Browser......
+2026-10-24 10:04:25 INFO  TC002 - launching ORangeHRM application
+2026-10-24 10:04:27 INFO  TC002 - Fetching the credentials from the properties file
+2026-10-24 10:04:27 INFO  TC002 - click on submit button
+2026-10-24 10:04:27 INFO  TC002 - started running TC002....
+2026-10-24 10:04:27 INFO  TC002 - OrangeHRM image validation on the homepage....
+2026-10-24 10:04:29 INFO  TC002 - completed the TC002 execution successfully.........
+2026-10-24 10:04:29 INFO  TC002 - click on logout button
+2026-10-24 10:04:30 INFO  TC002 - logout application successfully.....
+2026-10-24 10:04:30 INFO  TC002 - Closed the browser successfully
+2026-10-24 10:04:31 INFO  DDTTesting - Initializing the chrome Browser......
+2026-10-24 10:04:32 INFO  DDTTesting - launching ORangeHRM application
+2026-10-24 10:04:35 INFO  DDTTesting - Fetching the credentials from the properties file
+2026-10-24 10:04:36 INFO  DDTTesting - click on submit button
+2026-10-24 10:04:36 INFO  DDTTesting - **** Starting TC_003_LoginDDT *****
+2026-10-24 10:04:47 INFO  DDTTesting - launching ORangeHRM application
+2026-10-24 10:04:47 INFO  DDTTesting - Fetching the credentials from the properties file
+2026-10-24 10:04:47 INFO  DDTTesting - click on submit button
+2026-10-24 10:04:47 INFO  DDTTesting - **** Starting TC_003_LoginDDT *****
+2026-10-24 10:04:48 INFO  DDTTesting - launching ORangeHRM application
+2026-10-24 10:04:49 INFO  DDTTesting - Fetching the credentials from the properties file
+2026-10-24 10:04:49 INFO  DDTTesting - click on submit button
+2026-10-24 10:04:49 INFO  DDTTesting - **** Starting TC_003_LoginDDT *****
+2026-10-24 10:04:50 INFO  DDTTesting - click on logout button
+2026-10-24 10:29:49 INFO  TC001_LoginApplication - Initializing the chrome Browser......
+2026-10-24 10:29:50 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-24 10:29:53 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-24 10:29:54 INFO  TC001_LoginApplication - click on submit button
+2026-10-24 10:29:54 INFO  TC001_LoginApplication - opened Pim page
+2026-10-24 10:30:02 INFO  TC001_LoginApplication - entered firstname
+2026-10-24 10:30:02 INFO  TC001_LoginApplication - entered lastname
+2026-10-24 10:30:02 INFO  TC001_LoginApplication - employee details saved
+2026-10-24 10:30:02 INFO  TC001_LoginApplication - Providing personal details
+2026-10-24 10:30:02 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-24 10:30:07 INFO  TC001_LoginApplication - entered licenece number
+2026-10-24 10:30:07 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-24 10:30:07 INFO  TC001_LoginApplication - click on logout button
+2026-10-24 10:30:09 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-24 10:30:09 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-24 10:30:10 INFO  TC002 - Initializing the chrome Browser......
+2026-10-24 10:30:10 INFO  TC002 - launching ORangeHRM application
+2026-10-24 10:30:13 INFO  TC002 - Fetching the credentials from the properties file
+2026-10-24 10:30:13 INFO  TC002 - click on submit button
+2026-10-24 10:30:14 INFO  TC002 - started running TC002....
+2026-10-24 10:30:14 INFO  TC002 - OrangeHRM image validation on the homepage....
+2026-10-24 10:30:15 INFO  TC002 - completed the TC002 execution successfully.........
+2026-10-24 10:30:15 INFO  TC002 - click on logout button
+2026-10-24 10:30:17 INFO  TC002 - logout application successfully.....
+2026-10-24 10:30:17 INFO  TC002 - Closed the browser successfully
+2026-10-24 10:30:18 INFO  DDTTesting - Initializing the chrome Browser......
+2026-10-24 10:30:19 INFO  DDTTesting - launching ORangeHRM application
+2026-10-24 10:30:22 INFO  DDTTesting - Fetching the credentials from the properties file
+2026-10-24 10:30:22 INFO  DDTTesting - click on submit button
+2026-10-24 10:30:22 INFO  DDTTesting - **** Starting TC_003_LoginDDT *****
+2026-10-24 10:30:33 INFO  DDTTesting - launching ORangeHRM application
+2026-10-24 10:30:34 INFO  DDTTesting - Fetching the credentials from the properties file
+2026-10-24 10:30:34 INFO  DDTTesting - click on submit button
+2026-10-24 10:30:34 INFO  DDTTesting - **** Starting TC_003_LoginDDT *****
+2026-10-24 10:30:45 INFO  DDTTesting - launching ORangeHRM application
+2026-10-24 10:30:46 INFO  DDTTesting - Fetching the credentials from the properties file
+2026-10-24 10:30:46 INFO  DDTTesting - click on submit button
+2026-10-24 10:30:46 INFO  DDTTesting - **** Starting TC_003_LoginDDT *****
+2026-10-24 10:30:46 INFO  DDTTesting - click on logout button
+2026-10-24 10:30:49 INFO  DDTTesting - logout application successfully.....
+2026-10-24 10:30:49 INFO  DDTTesting - Closed the browser successfully
+2026-10-24 10:32:14 INFO  TC001_LoginApplication - Initializing the chrome Browser......
+2026-10-24 10:32:14 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-24 10:32:17 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-24 10:32:17 INFO  TC001_LoginApplication - click on submit button
+2026-10-24 10:32:17 INFO  TC001_LoginApplication - opened Pim page
+2026-10-24 10:32:23 INFO  TC001_LoginApplication - entered firstname
+2026-10-24 10:32:23 INFO  TC001_LoginApplication - entered lastname
+2026-10-24 10:32:24 INFO  TC001_LoginApplication - employee details saved
+2026-10-24 10:32:24 INFO  TC001_LoginApplication - Providing personal details
+2026-10-24 10:32:24 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-24 10:32:29 INFO  TC001_LoginApplication - entered licenece number
+2026-10-24 10:32:29 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-24 10:32:29 INFO  TC001_LoginApplication - click on logout button
+2026-10-24 10:32:31 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-24 10:32:31 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-24 10:33:46 INFO  TC001_LoginApplication - Initializing the chrome Browser......
+2026-10-24 10:33:47 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-24 10:33:49 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-24 10:33:50 INFO  TC001_LoginApplication - click on submit button
+2026-10-24 10:33:50 INFO  TC001_LoginApplication - opened Pim page
+2026-10-24 10:33:57 INFO  TC001_LoginApplication - entered firstname
+2026-10-24 10:33:57 INFO  TC001_LoginApplication - entered lastname
+2026-10-24 10:33:57 INFO  TC001_LoginApplication - employee details saved
+2026-10-24 10:33:57 INFO  TC001_LoginApplication - Providing personal details
+2026-10-24 10:33:57 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-24 10:34:02 INFO  TC001_LoginApplication - entered licenece number
+2026-10-24 10:34:02 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-24 10:34:02 INFO  TC001_LoginApplication - click on logout button
+2026-10-24 10:34:04 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-24 10:34:04 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-24 10:35:27 INFO  TC001_LoginApplication - Initializing the chrome Browser......
+2026-10-24 10:35:27 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-24 10:35:30 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-24 10:35:30 INFO  TC001_LoginApplication - click on submit button
+2026-10-24 10:35:30 INFO  TC001_LoginApplication - opened Pim page
+2026-10-24 10:35:36 INFO  TC001_LoginApplication - entered firstname
+2026-10-24 10:35:36 INFO  TC001_LoginApplication - entered lastname
+2026-10-24 10:35:36 INFO  TC001_LoginApplication - employee details saved
+2026-10-24 10:35:36 INFO  TC001_LoginApplication - Providing personal details
+2026-10-24 10:35:36 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-24 10:35:41 INFO  TC001_LoginApplication - entered licenece number
+2026-10-24 10:35:41 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-24 10:35:41 INFO  TC001_LoginApplication - click on logout button
+2026-10-24 10:35:43 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-24 10:35:43 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-24 10:37:45 INFO  TC001_LoginApplication - Initializing the chrome Browser......
+2026-10-24 10:37:45 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-24 10:37:49 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-24 10:37:50 INFO  TC001_LoginApplication - click on submit button
+2026-10-24 10:37:50 INFO  TC001_LoginApplication - opened Pim page
+2026-10-24 10:37:59 INFO  TC001_LoginApplication - entered firstname
+2026-10-24 10:37:59 INFO  TC001_LoginApplication - entered lastname
+2026-10-24 10:37:59 INFO  TC001_LoginApplication - employee details saved
+2026-10-24 10:37:59 INFO  TC001_LoginApplication - Providing personal details
+2026-10-24 10:37:59 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-24 10:38:05 INFO  TC001_LoginApplication - entered licenece number
+2026-10-24 10:38:05 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-24 10:38:05 INFO  TC001_LoginApplication - click on logout button
+2026-10-24 10:38:08 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-24 10:38:08 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-24 10:38:56 INFO  TC001_LoginApplication - Initializing the chrome Browser......
+2026-10-24 10:38:56 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-24 10:38:59 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-24 10:39:00 INFO  TC001_LoginApplication - click on submit button
+2026-10-24 10:39:00 INFO  TC001_LoginApplication - opened Pim page
+2026-10-24 10:39:15 INFO  TC001_LoginApplication - entered firstname
+2026-10-24 10:39:15 INFO  TC001_LoginApplication - entered lastname
+2026-10-24 10:39:15 INFO  TC001_LoginApplication - employee details saved
+2026-10-24 10:39:15 INFO  TC001_LoginApplication - Providing personal details
+2026-10-24 10:39:15 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-24 10:39:25 ERROR TC001_LoginApplication - Test Failed
+2026-10-24 10:39:25 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-24 10:39:25 INFO  TC001_LoginApplication - click on logout button
+2026-10-24 10:39:28 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-24 10:39:28 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-24 10:43:32 INFO  TC001_LoginApplication - Initializing the chrome Browser......
+2026-10-24 10:43:32 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-24 10:43:34 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-24 10:43:35 INFO  TC001_LoginApplication - click on submit button
+2026-10-24 10:43:35 INFO  TC001_LoginApplication - opened Pim page
+2026-10-24 10:43:45 INFO  TC001_LoginApplication - entered firstname
+2026-10-24 10:43:45 INFO  TC001_LoginApplication - entered lastname
+2026-10-24 10:43:46 INFO  TC001_LoginApplication - employee details saved
+2026-10-24 10:43:46 INFO  TC001_LoginApplication - Providing personal details
+2026-10-24 10:43:46 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-24 10:43:52 INFO  TC001_LoginApplication - entered licenece number
+2026-10-24 10:43:52 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-24 10:43:52 INFO  TC001_LoginApplication - click on logout button
+2026-10-24 10:43:55 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-24 10:43:56 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-24 10:54:49 INFO  TC001_LoginApplication - Initializing the chrome Browser......
+2026-10-24 10:54:49 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-24 10:54:51 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-24 10:54:52 INFO  TC001_LoginApplication - click on submit button
+2026-10-24 10:54:52 INFO  TC001_LoginApplication - opened Pim page
+2026-10-24 10:54:58 INFO  TC001_LoginApplication - entered firstname
+2026-10-24 10:54:58 INFO  TC001_LoginApplication - entered lastname
+2026-10-24 10:54:58 INFO  TC001_LoginApplication - employee details saved
+2026-10-24 10:54:58 INFO  TC001_LoginApplication - Providing personal details
+2026-10-24 10:54:58 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-24 10:55:03 INFO  TC001_LoginApplication - entered licenece number
+2026-10-24 10:55:03 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-24 10:55:03 INFO  TC001_LoginApplication - click on logout button
+2026-10-24 10:55:05 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-24 10:55:05 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-24 10:55:52 INFO  TC001_LoginApplication - Initializing the chrome Browser......
+2026-10-24 10:55:52 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-24 10:55:54 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-24 10:55:54 INFO  TC001_LoginApplication - click on submit button
+2026-10-24 10:55:56 INFO  TC001_LoginApplication - opened Pim page
+2026-10-24 10:56:01 INFO  TC001_LoginApplication - entered firstname
+2026-10-24 10:56:01 INFO  TC001_LoginApplication - entered lastname
+2026-10-24 10:56:01 INFO  TC001_LoginApplication - employee details saved
+2026-10-24 10:56:01 INFO  TC001_LoginApplication - Providing personal details
+2026-10-24 10:56:01 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-24 10:56:06 INFO  TC001_LoginApplication - entered licenece number
+2026-10-24 10:56:06 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-24 10:56:06 INFO  TC001_LoginApplication - click on logout button
+2026-10-24 10:56:07 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-24 10:56:07 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-24 11:03:38 INFO  TC001_LoginApplication - Initializing the chrome Browser......
+2026-10-24 11:03:38 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-24 11:03:40 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-24 11:03:40 INFO  TC001_LoginApplication - click on submit button
+2026-10-24 11:03:42 INFO  TC001_LoginApplication - opened Pim page
+2026-10-24 11:03:46 INFO  TC001_LoginApplication - entered firstname
+2026-10-24 11:03:46 INFO  TC001_LoginApplication - entered lastname
+2026-10-24 11:03:46 INFO  TC001_LoginApplication - employee details saved
+2026-10-24 11:03:46 INFO  TC001_LoginApplication - Providing personal details
+2026-10-24 11:03:46 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-24 11:03:51 INFO  TC001_LoginApplication - entered licenece number
+2026-10-24 11:03:51 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-24 11:03:51 INFO  TC001_LoginApplication - click on logout button
+2026-10-24 11:03:52 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-24 11:03:53 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-24 11:11:02 INFO  TC001_LoginApplication - Initializing the chrome Browser......
+2026-10-24 11:11:02 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-24 11:11:05 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-24 11:11:05 INFO  TC001_LoginApplication - click on submit button
+2026-10-24 11:11:05 INFO  TC001_LoginApplication - opened Pim page
+2026-10-24 11:11:11 INFO  TC001_LoginApplication - entered firstname
+2026-10-24 11:11:11 INFO  TC001_LoginApplication - entered lastname
+2026-10-24 11:11:11 INFO  TC001_LoginApplication - employee details saved
+2026-10-24 11:11:11 INFO  TC001_LoginApplication - Providing personal details
+2026-10-24 11:11:11 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-24 11:11:16 INFO  TC001_LoginApplication - entered licenece number
+2026-10-24 11:11:16 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-24 11:11:16 INFO  TC001_LoginApplication - click on logout button
+2026-10-24 11:11:17 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-24 11:11:18 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-24 11:22:13 INFO  TC001_LoginApplication - Initializing the chrome Browser......
+2026-10-24 11:22:13 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-24 11:22:16 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-24 11:22:16 INFO  TC001_LoginApplication - click on submit button
+2026-10-24 11:22:16 INFO  TC001_LoginApplication - opened Pim page
+2026-10-24 11:22:23 INFO  TC001_LoginApplication - entered firstname
+2026-10-24 11:22:23 INFO  TC001_LoginApplication - entered lastname
+2026-10-24 11:22:23 INFO  TC001_LoginApplication - employee details saved
+2026-10-24 11:22:23 INFO  TC001_LoginApplication - Providing personal details
+2026-10-24 11:22:23 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-24 11:22:27 INFO  TC001_LoginApplication - entered licenece number
+2026-10-24 11:22:27 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-24 11:22:27 INFO  TC001_LoginApplication - click on logout button
+2026-10-24 11:22:29 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-24 11:22:29 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-24 11:24:39 INFO  TC001_LoginApplication - Initializing the chrome Browser......
+2026-10-24 11:24:39 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-24 11:24:41 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-24 11:24:42 INFO  TC001_LoginApplication - click on submit button
+2026-10-24 11:24:42 INFO  TC001_LoginApplication - opened Pim page
+2026-10-24 11:24:48 INFO  TC001_LoginApplication - entered firstname
+2026-10-24 11:24:48 INFO  TC001_LoginApplication - entered lastname
+2026-10-24 11:24:48 INFO  TC001_LoginApplication - employee details saved
+2026-10-24 11:24:48 INFO  TC001_LoginApplication - Providing personal details
+2026-10-24 11:24:48 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-24 11:24:53 INFO  TC001_LoginApplication - entered licenece number
+2026-10-24 11:24:53 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-24 11:24:53 INFO  TC001_LoginApplication - click on logout button
+2026-10-24 11:24:55 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-24 11:24:55 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-24 11:25:48 INFO  TC001_LoginApplication - Initializing the chrome Browser......
+2026-10-24 11:25:48 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-24 11:25:51 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-24 11:25:51 INFO  TC001_LoginApplication - click on submit button
+2026-10-24 11:25:51 INFO  TC001_LoginApplication - opened Pim page
+2026-10-24 11:25:58 INFO  TC001_LoginApplication - entered firstname
+2026-10-24 11:25:58 INFO  TC001_LoginApplication - entered lastname
+2026-10-24 11:25:58 INFO  TC001_LoginApplication - employee details saved
+2026-10-24 11:25:58 INFO  TC001_LoginApplication - Providing personal details
+2026-10-24 11:25:58 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-24 11:26:03 INFO  TC001_LoginApplication - entered licenece number
+2026-10-24 11:26:03 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-24 11:26:03 INFO  TC001_LoginApplication - click on logout button
+2026-10-24 11:26:05 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-24 11:26:05 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-24 11:26:06 INFO  TC002 - Initializing the chrome Browser......
+2026-10-24 11:26:06 INFO  TC002 - launching ORangeHRM application
+2026-10-24 11:26:08 INFO  TC002 - Fetching the credentials from the properties file
+2026-10-24 11:26:09 INFO  TC002 - click on submit button
+2026-10-24 11:26:09 INFO  TC002 - started running TC002....
+2026-10-24 11:26:09 INFO  TC002 - OrangeHRM image validation on the homepage....
+2026-10-24 11:26:10 INFO  TC002 - completed the TC002 execution successfully.........
+2026-10-24 11:26:10 INFO  TC002 - click on logout button
+2026-10-24 11:26:12 INFO  TC002 - logout application successfully.....
+2026-10-24 11:26:12 INFO  TC002 - Closed the browser successfully
+2026-10-24 11:26:13 INFO  DDTTesting - Initializing the chrome Browser......
+2026-10-24 11:26:14 INFO  DDTTesting - launching ORangeHRM application
+2026-10-24 11:26:16 INFO  DDTTesting - Fetching the credentials from the properties file
+2026-10-24 11:26:17 INFO  DDTTesting - click on submit button
+2026-10-24 11:26:17 INFO  DDTTesting - **** Starting TC_003_LoginDDT *****
+2026-10-24 11:26:29 INFO  DDTTesting - launching ORangeHRM application
+2026-10-24 11:26:29 INFO  DDTTesting - Fetching the credentials from the properties file
+2026-10-24 11:26:29 INFO  DDTTesting - click on submit button
+2026-10-24 11:26:29 INFO  DDTTesting - **** Starting TC_003_LoginDDT *****
+2026-10-24 11:26:30 INFO  DDTTesting - launching ORangeHRM application
+2026-10-24 11:26:31 INFO  DDTTesting - Fetching the credentials from the properties file
+2026-10-24 11:26:31 INFO  DDTTesting - click on submit button
+2026-10-24 11:26:31 INFO  DDTTesting - **** Starting TC_003_LoginDDT *****
+2026-10-24 11:26:31 INFO  DDTTesting - click on logout button
+2026-10-24 11:30:39 INFO  TC001_LoginApplication - Initializing the chrome Browser......
+2026-10-24 11:30:39 INFO  TC001_LoginApplication - launching ORangeHRM application
+2026-10-24 11:30:42 INFO  TC001_LoginApplication - Fetching the credentials from the properties file
+2026-10-24 11:30:42 INFO  TC001_LoginApplication - click on submit button
+2026-10-24 11:30:43 INFO  TC001_LoginApplication - opened Pim page
+2026-10-24 11:30:48 INFO  TC001_LoginApplication - entered firstname
+2026-10-24 11:30:48 INFO  TC001_LoginApplication - entered lastname
+2026-10-24 11:30:49 INFO  TC001_LoginApplication - employee details saved
+2026-10-24 11:30:49 INFO  TC001_LoginApplication - Providing personal details
+2026-10-24 11:30:49 INFO  TC001_LoginApplication - Enter Others Id
+2026-10-24 11:30:53 INFO  TC001_LoginApplication - entered licenece number
+2026-10-24 11:30:53 INFO  TC001_LoginApplication - finished the testcase TC_001Login application ..........
+2026-10-24 11:30:53 INFO  TC001_LoginApplication - click on logout button
+2026-10-24 11:30:55 INFO  TC001_LoginApplication - logout application successfully.....
+2026-10-24 11:30:55 INFO  TC001_LoginApplication - Closed the browser successfully
+2026-10-24 11:30:56 INFO  TC002 - Initializing the chrome Browser......
+2026-10-24 11:30:56 INFO  TC002 - launching ORangeHRM application
+2026-10-24 11:30:58 INFO  TC002 - Fetching the credentials from the properties file
+2026-10-24 11:30:59 INFO  TC002 - click on submit button
+2026-10-24 11:30:59 INFO  TC002 - started running TC002....
+2026-10-24 11:30:59 INFO  TC002 - OrangeHRM image validation on the homepage....
+2026-10-24 11:31:00 INFO  TC002 - completed the TC002 execution successfully.........
+2026-10-24 11:31:00 INFO  TC002 - click on logout button
+2026-10-24 11:31:01 INFO  TC002 - logout application successfully.....
+2026-10-24 11:31:01 INFO  TC002 - Closed the browser successfully
+2026-10-24 11:31:02 INFO  DDTTesting - Initializing the chrome Browser......
+2026-10-24 11:31:03 INFO  DDTTesting - launching ORangeHRM application
+2026-10-24 11:31:06 INFO  DDTTesting - Fetching the credentials from the properties file
+2026-10-24 11:31:06 INFO  DDTTesting - click on submit button
+2026-10-24 11:31:06 INFO  DDTTesting - **** Starting TC_003_LoginDDT *****
+2026-10-24 11:31:17 INFO  DDTTesting - launching ORangeHRM application
+2026-10-24 11:31:18 INFO  DDTTesting - Fetching the credentials from the properties file
+2026-10-24 11:31:18 INFO  DDTTesting - click on submit button
+2026-10-24 11:31:18 INFO  DDTTesting - **** Starting TC_003_LoginDDT *****
+2026-10-24 11:31:19 INFO  DDTTesting - launching ORangeHRM application
+2026-10-24 11:31:20 INFO  DDTTesting - Fetching the credentials from the properties file
+2026-10-24 11:31:20 INFO  DDTTesting - click on submit button
+2026-10-24 11:31:20 INFO  DDTTesting - **** Starting TC_003_LoginDDT *****
+2026-10-24 11:31:20 INFO  DDTTesting - click on logout button
+2026-10-24 11:31:23 INFO  DDTTesting - logout application successfully.....
+2026-10-24 11:31:23 INFO  DDTTesting - Closed the browser successfully
