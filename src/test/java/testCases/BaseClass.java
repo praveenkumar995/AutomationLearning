@@ -1,7 +1,6 @@
 package testCases;
 
 import org.apache.commons.lang3.RandomStringUtils;
-
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
@@ -11,11 +10,11 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.*;
 import pageObjects.ApplicationLoginPage;
 
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.time.Duration;
 import java.util.Properties;
+
 
 public class BaseClass
 {
