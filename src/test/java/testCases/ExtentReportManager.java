@@ -48,7 +48,8 @@ public class ExtentReportManager  implements ITestListener {
             extentReports = new ExtentReports();
             extentReports.attachReporter(sparkReporter);
 
-            extentReports.setSystemInfo("computer name", "Windows");
+            extentReports.setSystemInfo("computer name",
+                    "Windows");
             extentReports.setSystemInfo("Environment", "QA");
             extentReports.setSystemInfo("Testername", "Praveen");
             extentReports.setSystemInfo("Browser name", "Chrome");
@@ -64,6 +65,8 @@ public class ExtentReportManager  implements ITestListener {
 //        TakesScreenshot ts=(TakesScreenshot)OrangeHRM.driver;
 //        File src=ts.getScreenshotAs(OutputType.FILE);
 //        File des=new File("/target/reports.html");
+
+        System.out.println("On TestSuccess ");
 
     }
     public void onTestFailure(ITestResult result){
