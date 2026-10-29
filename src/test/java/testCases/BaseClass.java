@@ -37,6 +37,8 @@ public class BaseClass
 
         switch (br.toLowerCase()) {
 
+
+
             case "chrome":
                 driver = new ChromeDriver();
                 logger.info("Initializing the chrome Browser......");
@@ -106,8 +108,21 @@ public class BaseClass
         String genaratedNumber1= RandomStringUtils.randomNumeric(1);
         return genaratedNumber1;
     }
-*/
 
+
+*/
+public String ramdomNumber(){
+    String ranmdomnumber=RandomStringUtils.randomNumeric(4);
+
+    return ranmdomnumber;
+}
+
+public String ramdomString()
+{
+    String generatedstring=RandomStringUtils.randomAlphabetic(5);
+    return generatedstring;
+
+}
     public void confirm_msg() {
         String pageSource = driver.getPageSource();
         System.out.println(pageSource);

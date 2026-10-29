@@ -35,21 +35,20 @@ public class ExtentReportManager  implements ITestListener {
             Path reportFolder = Paths.get(reportFolderPath);
             Files.createDirectories(reportFolder);
 
-            String reportFilePath = reportFolderPath + "/report.html";
+            String reportFilePath = reportFolder + "/report.html";
 
             System.out.println("Report will be generated at: " + reportFilePath);
         /*System.out.println("Path ="+System.getProperty("user.dir")+"/test-output/Reports.html");
         sparkReporter=new ExtentSparkReporter(System.getProperty("user.dir")+"test-output/Reports/report.html");*/
             sparkReporter = new ExtentSparkReporter(reportFilePath);
-            sparkReporter.config().setDocumentTitle("Automation Report");
+            sparkReporter.config().setDocumentTitle("Automation Report ");
             sparkReporter.config().setReportName("Functional testing");
             sparkReporter.config().setTheme(Theme.DARK);
 
             extentReports = new ExtentReports();
             extentReports.attachReporter(sparkReporter);
 
-            extentReports.setSystemInfo("computer name",
-                    "Windows");
+            extentReports.setSystemInfo("computer name","Windows");
             extentReports.setSystemInfo("Environment", "QA");
             extentReports.setSystemInfo("Testername", "Praveen");
             extentReports.setSystemInfo("Browser name", "Chrome");

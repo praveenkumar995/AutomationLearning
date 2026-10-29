@@ -2,13 +2,16 @@ package testCases;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
+import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
+import com.aventstack.extentreports.reporter.configuration.Theme;
 import org.openqa.selenium.devtools.v138.runtime.model.Timestamp;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
 
+import java.awt.event.TextEvent;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -17,45 +20,70 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 public class ExtentReportManger2 implements ITestListener {
+
     public ExtentSparkReporter sparkReporter;
     public ExtentReports reports;
     public ExtentTest test;
-    public String reportFolerPath;
-    public static final String Timestamp=LocalDateTime.now().format(DateTimeFormatter.ofPattern("YYYY-MM-NN_HH-mm=-ss"));
 
+    public String reportFilePath;
+
+    public static final String TIMESTAMP= LocalDateTime.now().format(DateTimeFormatter.ofPattern("YYYY-MM-DD-HH-MM-SS"));
     public void onStart(ITestContext context) {
 
-        String Folderpath= System.getProperty("user.dir")+"./logs/Reports/report_"+Timestamp;
+        String FolderPath=System.getProperty("User.dir")+"./test-output/Reports/Run_"+TIMESTAMP;
 
-        Path reportFolderpath=Paths.get(Folderpath);
+       Path Filepath=Paths.get(FolderPath);
         try {
-            Files.createDirectories(reportFolderpath);
+            Files.createDirectories(Filepath);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
 
-        reportFolerPath=reportFolerPath+"report.html";
-    }
+        reportFilePath=reportFilePath+"/reports.html";
+        sparkReporter=new ExtentSparkReporter(reportFilePath);
 
-    public void onTestStart(ITestResult result) {
-        // not implemented
+        sparkReporter.config().setDocumentTitle("Automtion Testing");
+        sparkReporter.config().setReportName("Functional Testing");
+        sparkReporter.config().setTheme(Theme.DARK);
+
+        reports=new ExtentReports();
+        reports.attachReporter(sparkReporter);
+
+        reports.setSystemInfo("Name","value");
+        reports.setSystemInfo("os","windows");
+        reports.setSystemInfo("browser","Chrome");
+        reports.setSystemInfo("Tester","Praveen");
+
+
     }
 
     public void onTestSuccess(ITestResult result) {
-        // not implemented
+
+        test=reports.createTest(result.getName());
+        test.log(Status.PASS,"TestCase is paased"+result.getName());
+
     }
 
     public void onTestFailure(ITestResult result) {
-        // not implemented
+
+        test=reports.createTest(result.getName());
+        test.log(Status.FAIL,"Testcase is failed"+result.getName());
+        test.log(Status.FAIL,"Testcase is failed"+result.getThrowable());
+
     }
 
 
     public void onTestSkipped(ITestResult result) {
-        // not implemented
+
+        test=reports.createTest(result.getName());
+        test.log(Status.SKIP,"Testcase is skipped"+result.getName());
+        test.log(Status.SKIP,"Testcase is skipped"+result.getThrowable());
+
     }
 
     public void onFinish(ITestContext context) {
-        // not implemented
+
+        reports.flush();
     }
 
 
