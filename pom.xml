@@ -20,8 +20,7 @@
                     <configuration>
                         <suiteXmlFiles>
                             <suiteXmlFile>src/test/resources/testNg.xml</suiteXmlFile>
-                            <suiteXmlFile>src/test/resources/crossbrowsertesting.xml</suiteXmlFile>
-                        </suiteXmlFiles>
+                           </suiteXmlFiles>
                     </configuration>
                 </plugin>
         </plugins>
